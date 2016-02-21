@@ -1,0 +1,6 @@
+c:\users\aladdin\documents\visual studio 2015\Projects\Voltage_Reader\Voltage_Reader\bin\Debug\Voltage_Reader.exe.config
+c:\users\aladdin\documents\visual studio 2015\Projects\Voltage_Reader\Voltage_Reader\bin\Debug\Voltage_Reader.exe
+c:\users\aladdin\documents\visual studio 2015\Projects\Voltage_Reader\Voltage_Reader\bin\Debug\Voltage_Reader.pdb
+c:\users\aladdin\documents\visual studio 2015\Projects\Voltage_Reader\Voltage_Reader\obj\Debug\Voltage_Reader.csprojResolveAssemblyReference.cache
+c:\users\aladdin\documents\visual studio 2015\Projects\Voltage_Reader\Voltage_Reader\obj\Debug\Voltage_Reader.exe
+c:\users\aladdin\documents\visual studio 2015\Projects\Voltage_Reader\Voltage_Reader\obj\Debug\Voltage_Reader.pdb
